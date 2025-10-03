@@ -50,4 +50,4 @@ Virginica — бодибилдер на стероидах
 
 Скачал train.csv Из https://www.kaggle.com/competitions/titanic/data 
 Ирис от датасет маттттттрполиба взяль
-![[photo.png]]
+![Титаник](photo.png)
